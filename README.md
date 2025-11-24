@@ -71,25 +71,3 @@ Insight是一个**可以管理企业微信群机器人的小工具，在这里�
 | 后端 | Nodejs+ Egg + Typeorm + Typescript + Mysql |  后端使用[Egg.js](https://eggjs.org/zh-cn/intro/index.html)+Typescript模版，数据库操作使用的是ORM，非常方便，如果您需要基于此开发，可以看看[官方文档](https://typeorm.io/)，相信你会喜欢。|
 
 您可以随时把Mysql换成其他数据库，网上有教程，不过安装一个Mysql也很简单。
-
-## 常见问题
-1. 如何找到我要添加的机器人？
-2. 怎样将此工具添加到企业微信控制台？
-3. 智能跳过节假日功能，每年假期不一样，该如何更新？
-4. 怎样才能成为超级管理员，权限分配是怎样的？
-5. 自定义套件是什么？如何开启？
-6. 如何部署？
-...
-
-想知道这些问题的答案？点击[常见问题](https://github.com/Elliottssu/insight/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)，了解更多。
-
-## 👨🏻‍💻👩🏻‍💻交流群
-我们会活跃在社区和交流群，可以在里面解答问题、探讨功能需求以及技术方案等等。您可以通过下面两种方式和我们沟通：
-1. [🍔Insight社区](https://support.qq.com/products/113180)
-2. [ 😈Github Issues](https://github.com/Elliottssu/insight/issues)
-
-## 贡献
-非常欢迎大家提出改进优化建议，所有合理的改动、优化、修正，新的组件，或者文档的修正、更新 相关的提交都会被接收。
-
-## 关于
-想了解“科幻”是怎样来的？这里有一份背后的故事分享，我们的[创作历程](https://www.jianshu.com/p/83ddd46b3d5d)😉。
