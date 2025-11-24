@@ -1,6 +1,5 @@
 <h2 align="center">
-    <img src="https://upload-images.jianshu.io/upload_images/3502567-134d75146e2f2a31.png" alt="Insight" height="40">
-</h2>
+
 <h4 align="center">
     最科幻的企业微信群机器人管理工具
 </h4>
