@@ -1,5 +1,3 @@
-[📖使用文档](https://github.com/Elliottssu/insight/wiki/%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3) | [❓常见问题](https://github.com/Elliottssu/insight/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98) | [💙创作历程](https://www.jianshu.com/p/83ddd46b3d5d)
-
 <h2 align="center">
     <img src="https://upload-images.jianshu.io/upload_images/3502567-134d75146e2f2a31.png" alt="Insight" height="40">
 </h2>
@@ -16,13 +14,6 @@
 
 ![insight 预览](https://upload-images.jianshu.io/upload_images/3502567-6c6527d1709f03d8.png)
 
-
-## 在线体验
-
-⚠️ 因为下方域名到期，暂停使用，大家可以自行部署。
-insight官网：[http://insight.charmculture.com](http://insight.charmculture.com)。
-
-注意：此网站仅供demo测试，你也可以暂时将自己的机器人放在这里。
 
 ## 部署教程
 这个是在nginx上部署此工程的使用参考教程：[从0到1，Nginx部署Nodejs+React教程](https://www.jianshu.com/p/5af19b772948)
