@@ -7,13 +7,6 @@
     非常方便的发布群即时消息和定时消息，解放双手，提升沟通效率
 </p>
 
-[![Version](https://img.shields.io/github/package-json/v/Elliottssu/insight)](https://github.com/Elliottssu/insight)
-[![Issues](https://img.shields.io/github/issues/Elliottssu/insight)](https://github.com/Elliottssu/insight/issues)
-[![License](https://img.shields.io/github/license/Elliottssu/insight)](https://github.com/Elliottssu/insight/blob/master/LICENSE)
-
-![insight 预览](https://upload-images.jianshu.io/upload_images/3502567-6c6527d1709f03d8.png)
-
-
 ## 部署教程
 这个是在nginx上部署此工程的使用参考教程：[从0到1，Nginx部署Nodejs+React教程](https://www.jianshu.com/p/5af19b772948)
 
